@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MegamiCalculator</string>
+    <string name="welcome">Please set value and press button</string>
+    <string name="count">Count</string>
+    <string name="character_equ">Char. Eqpt.</string>
+    <string name="memo_price">Pieces Price</string>
+    <string name="piece_num">Pieces Qty.</string>
+    <string name="now_star">Now Star</string>
+    <string name="target_star">Target Star</string>
+    <string name="unlock">Char. Unlock"</string>
+    <string name="no">No</string>
+    <string name="need">About" "</string>
+    <string name="pig">" "Goddess Stones</string>
+    <string name="less_or_equal0">" "shouldn\'t less or equal to 0,please re-input!</string>
+    <string name="less_or_equal1">" "shouldn\'t less or equal to 1,please re-input!</string>
+    <string name="less0">" "shouldn\'t less than 0,please re-input!</string>
+    <string name="less1">" "shouldn\'t less than 1,please re-input!</string>
+    <string name="more5">" "shouldn\'t more than 5,please re-input!</string>
+    <string name="dont_less">" "shouldn\'t less than" "</string>
+    <string name="dont_less2"></string>
+    <string name="same">Same Num. of star,doesn\'t need Goddess Stones!</string>
+    <string name="piece515">Unlock character,Max star and Max LV. of Character Equipment,only need up to 515 Memory Pieces!</string>
+    <string name="piece_enoughMAX">Your Memory Pieces already enough to let your character Max star and Max LV. of Character Equipment!</string>
+    <string name="piece_enough">Your Memory Pieces already enough to fit your needs!</string>
+    <string name="unlock1">You need to have at least" "</string>
+    <string name="unlock2">" "Memory Pieces to unlock character!\n\nYou still missing" "</string>
+    <string name="unlock3">" "pieces</string>
+
+    <string name="need1">First,you need to spend" "</string>
+    <string name="need2">" "Memory Pieces to unlock character!\n\nAnd also lack" "</string>
+    <string name="need3">" "Memory Pieces\nAbout" "</string>
+    <string name="need4">" "Goddess Stones to fit your needs!</string>
+
+    <string name="already">Already Unlock</string>
+    <string name="star1">Unlock 1☆ Character</string>
+    <string name="star2">Unlock 2☆ Character</string>
+    <string name="star3">Unlock 3☆ Character</string>
+
+    <string name="enough">You Memory Pieces are enough to fit your needs!</string>
+
+    <string name="lack1">You still stack" "</string>
+    <string name="lack2">" "Memory Pieces!</string>
+</resources>

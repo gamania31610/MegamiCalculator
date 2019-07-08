@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">女神の秘石計算アプリ</string>
+    <string name="welcome">こんにちは、値を設定してください、そしてボタンを押すと計算が始まります</string>
+    <string name="count">計算</string>
+    <string name="character_equ">専用装備レベル</string>
+    <string name="memo_price">女神の秘石交換回数</string>
+    <string name="piece_num">メモリピースの現在数</string>
+    <string name="now_star">現在のキャラの星</string>
+    <string name="target_star">目標のキャラの星</string>
+    <string name="unlock">キャラ解放"</string>
+    <string name="no">なし</string>
+    <string name="need">""</string>
+    <string name="pig">" "女神の秘石を必要</string>
+    <string name="less_or_equal0">小なりイコール" "0" "はできません。再入力してください。</string>
+    <string name="less_or_equal1">小なりイコール" "1" "はできません。再入力してください。</string>
+    <string name="less0">小なり" "0" "はできません。再入力してください。</string>
+    <string name="less1">小なり" "1" "はできません。再入力してください。!</string>
+    <string name="more5">大なり" "5" "はできません。再入力してください。</string>
+    <string name="dont_less">小なり" "</string>
+    <string name="dont_less2">" "はできません</string>
+    <string name="same">星は同じ，女神の秘石は必要ありません!</string>
+    <string name="piece515">515 メモリーピースはキャラクターを解放するあどて5星上がりのに十分!</string>
+    <string name="piece_enoughMAX">あなたのメモリーピースはキャラクターを星5上がりと専用装備レベルMAXのに十分!</string>
+    <string name="piece_enough">あなたのメモリーピースは十分に需要を満たすのに十分!</string>
+    <string name="unlock1">キャラ解放は" "</string>
+    <string name="unlock2">" "メモリーピースはかかります!\n\nあと" "</string>
+    <string name="unlock3">" "ピース足りない</string>
+
+    <string name="need1">先ず、" "</string>
+    <string name="need2">" "メモリーピースでキャラを解放!\n\nそして、まだ" "</string>
+    <string name="need3">" "メモリーピースを必要\nだいたい" "</string>
+    <string name="need4">" "女神の秘石です!</string>
+
+    <string name="already">既に持っている/既に解放する</string>
+    <string name="star1">1☆ キャラ解放</string>
+    <string name="star2">2☆ キャラ解放</string>
+    <string name="star3">3☆ キャラ解放</string>
+
+    <string name="enough">あなたのメモリーピースはあなたの求めに応じるのに十分です!</string>
+
+    <string name="lack1">まだ" "</string>
+    <string name="lack2">" "メモリーピースを必要です!</string>
+
+</resources>

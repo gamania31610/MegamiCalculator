@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">女神的秘石計算機</string>
+    <string name="welcome">您好，請設定數值，並按下按鈕開始計算</string>
+    <string name="count">計算</string>
+    <string name="character_equ">目標專武等級</string>
+    <string name="memo_price">目前每片價格</string>
+    <string name="piece_num">目前碎片數量</string>
+    <string name="now_star">目前星數</string>
+    <string name="target_star">目標星數</string>
+    <string name="unlock">角色解放"</string>
+    <string name="no">無</string>
+    <string name="need">大約是" "</string>
+    <string name="pig">" "顆女神的秘石!</string>
+    <string name="less_or_equal0">不可小於等於0，請重新輸入!</string>
+    <string name="less_or_equal1">不可小於等於1，請重新輸入!</string>
+    <string name="less0">不可小於0，請重新輸入!</string>
+    <string name="less1">不可小於1，請重新輸入!</string>
+    <string name="more5">最大為5，請重新輸入!</string>
+    <string name="dont_less">不應小於</string>
+    <string name="dont_less2"></string>
+    <string name="same">星數相同，不用女神的秘石!</string>
+    <string name="piece515">515片已足夠直接解放角色後5星滿專!</string>
+    <string name="piece_enoughMAX">您的碎片量已足夠直接5星滿專!</string>
+    <string name="piece_enough">您的碎片量已足夠達成需求!</string>
+    <string name="unlock1">您需要先有至少" "</string>
+    <string name="unlock2">" "片碎片來解放角色!\n\n還差" "</string>
+    <string name="unlock3">" "片</string>
+
+    <string name="need1">您需要先使用" "</string>
+    <string name="need2">" "片碎片來解放角色!\n\n之後還缺少" "</string>
+    <string name="need3">" "片碎片\n大約為" "</string>
+    <string name="need4">" "顆女神的秘石來達成需求!</string>
+
+    <string name="already">已獲得/已解放</string>
+    <string name="star1">解放 1☆ 角色</string>
+    <string name="star2">解放 2☆ 角色</string>
+    <string name="star3">解放 3☆ 角色</string>
+
+    <string name="enough">您的記憶碎片足以滿足您的需求!</string>
+
+    <string name="lack1">您還缺少" "</string>
+    <string name="lack2">" "片記憶碎片</string>
+
+</resources>
